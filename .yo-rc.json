@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "demospfx",
+    "libraryId": "1fdbec86-a7c8-414d-8636-fe42597c3d63",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "demospfx",
+    "solutionShortDescription": "demospfx description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
